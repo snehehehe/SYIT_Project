@@ -1,0 +1,12 @@
+{
+  "name": "realtime-whiteboard-sharing-app",
+  "version": "1.0.0",
+  "description": "this is the backend for realtime whiteboard sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Sneha/Tanvi",
+  "license": "MIT"
+}
